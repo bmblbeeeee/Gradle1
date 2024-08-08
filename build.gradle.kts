@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
     // https://mvnrepository.com/artifact/org.testng/testng
-    testImplementation("org.testng:testng:7.10.2")
+    testImplementation("junit:junit:4.13.1")
 }
 
 tasks.test {
